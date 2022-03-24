@@ -1,0 +1,84 @@
+Adblock Plus 2.0]
+! Version: 202203240840
+! Title: EasyList
+! Last modified: 24 Mar 2022 08:40 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! !
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist@protonmail.com).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+&ad_code=
+&ad_height=
+&ad_ids=
+&ad_network_
+&ad_slot=
+&ad_sub=
+&ad_system=
+&ad_time=
+&ad_type=
+&ad_url=
+&ad_zones=
+&adbannerid=
+&adclient=
+&adflag=
+&adgroupid=
+&adlist=
+&adnum=
+&adpageurl=
+&adsafe=
+&adserver=
+&adslots=
+&adsrc=
+&adstrade=
+&adstype=
+&AdType=
+&cbrandom=
+&clicktag=http
+&displayads=
+-ad-300x250.
+-ad-300x450.
+-ad-300x600-
+-ad-300x600px.
+-ad-303x481-
+-ad-313x232.
+-ad-336x280-
+-ad-340x400-
+-Ad-360.
+-ad-360x600.
+-ad-360x72.
+-ad-400.
+-ad-458x80.
+-ad-472x365.
+-ad-640x480.
+-ad-970-
+-ad-banner-
+-ad-bottom-
+-ad-button-
+-ad-category-
+-ad-changer-
+-ad-choices.
+-ad-code/
+-ad-codes_
+-ad-column-
+-ad-content/
+-ad-cube.
+-ad-data/
+-ad-home.
+-ad-horizontal.
+-ad-iframe.
+-ad-iframe/
+-ad-large.
+-Ad-Large_
+-ad-left.
+-ad-limits.
+-ad-link-
+-ad-live.
+-ad-loading.
+-ad-manager/$~stylesheet
